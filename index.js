@@ -1,14 +1,14 @@
-var zetta = require('../../zetta_runtime.js');
-var app = zetta();
+var zetta = require('zetta');
 
-app.id = 'd7fe2c66-db23-4513-a5f5-a2a890d1af30';
+var PORT = process.env.PORT || 3000;
 
-app
+zetta()
   .name('cloud')
   .expose('*')
-  .listen(3002, function(err) {
+  .listen(PORT, function(err) {
     if(err) {
-      console.log(err);
+      console.error(err);
+      process.exit(1);
     }
-    console.log('running on http://localhost:3002')
+    console.log('running on http://localhost:', PORT)
   });
