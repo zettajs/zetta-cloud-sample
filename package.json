@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "zetta": "git+http://git@github.com/zettajs/zetta.git#quiet-socket-debug"
+    "zetta": "git://github.com/zettajs/zetta.git#quiet-socket-debug"
   },
   "devDependencies": {},
   "scripts": {
