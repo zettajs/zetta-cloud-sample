@@ -1,0 +1,8 @@
+{
+  "name":"Zetta",
+  "description":"A sample cloud node for your zetta deployment.",
+  "website":"http://zettajs.org/",
+  "logo":"https://avatars1.githubusercontent.com/u/7231880",
+  "repository":"https://github.com/zettajs/zetta-cloud-sample",
+  "keywords": ["node", "zetta", "iot"]
+}
