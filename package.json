@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
-    "zetta": "git://github.com/zettajs/zetta.git#increase_peer_touchback_timeout"
+    "zetta": ">=0.10.0"
   },
   "devDependencies": {},
   "scripts": {
