@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "zetta": ">= 0.11.0"
+    "zetta": ">= 0.14.0"
   },
   "devDependencies": {},
   "scripts": {
