@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
-    "zetta": "https://github.com/zettajs/zetta.git#fix-ws-monitor-issue"
+    "zetta": "git://github.com/zettajs/zetta.git#fix-ws-monitor-issue"
   },
   "devDependencies": {},
   "scripts": {
