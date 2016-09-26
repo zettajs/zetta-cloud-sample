@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
-    "zetta": "^0.33.0"
+    "zetta": "^1.0.0"
   },
   "devDependencies": {},
   "scripts": {
